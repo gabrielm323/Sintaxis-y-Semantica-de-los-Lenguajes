@@ -1,0 +1,9 @@
+- **Numero de equipo: ** 10
+- **Autores de la resolucion:** 
+	- **Usuario github: ** gabrielm323
+	- **Legajo: ** 203.809.2
+	- **Apellido: ** Mamani Valdivia
+	- **Nombre: ** Gabriel Mamani
+- **Numero y titulo de trabajo: ** 00-Hello, world
+- **Transcripcion del enunciado: ** 
+- **Hipotesis de trabajo que surgen luego de leer el enunciado: ** 
