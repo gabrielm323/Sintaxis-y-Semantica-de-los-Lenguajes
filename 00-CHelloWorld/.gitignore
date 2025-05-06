@@ -1,0 +1,10 @@
+# Archivos ejecutables de Windows
+*.exe
+
+# Archivos de respaldo o temporales de editores
+*~
+*.swp
+*.tmp
+
+# Archivos generados por compiladores
+*.log

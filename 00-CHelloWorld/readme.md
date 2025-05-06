@@ -7,3 +7,6 @@
 - **Numero y titulo de trabajo: ** 00-Hello, world
 - **Transcripcion del enunciado: ** 
 - **Hipotesis de trabajo que surgen luego de leer el enunciado: ** 
+- **Compilador: ** GNU Compiler Collection
+- **Version del compilador: ** MinGW.org GCC 6.3.0-1
+- **Version de C que el compilador compila: ** C11
